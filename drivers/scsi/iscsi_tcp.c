@@ -2,6 +2,7 @@
  * iSCSI Initiator over TCP/IP Data-Path
  *
  * Copyright (C) 2004 Dmitry Yusupov
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2004 Alex Aizman
  * Copyright (C) 2005 - 2006 Mike Christie
  * Copyright (C) 2006 Red Hat, Inc.  All rights reserved.

@@ -2,6 +2,7 @@
  * SH7269 Pinmux
  *
  * Copyright (C) 2012  Renesas Electronics Europe Ltd
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2012  Phil Edworthy
  *
  * This file is subject to the terms and conditions of the GNU General Public

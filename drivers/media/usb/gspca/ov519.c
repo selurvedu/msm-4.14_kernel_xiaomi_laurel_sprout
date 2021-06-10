@@ -2,6 +2,7 @@
  * OV519 driver
  *
  * Copyright (C) 2008-2011 Jean-François Moine <moinejf@free.fr>
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2009 Hans de Goede <hdegoede@redhat.com>
  *
  * This module is adapted from the ov51x-jpeg package, which itself

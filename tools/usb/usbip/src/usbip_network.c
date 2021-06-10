@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2011 matt mooney <mfm@muteddisk.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *               2005-2007 Takahiro Hirofuchi
  *
  * This program is free software: you can redistribute it and/or modify

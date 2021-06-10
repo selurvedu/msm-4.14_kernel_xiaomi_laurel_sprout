@@ -2,6 +2,7 @@
  * RFC 3720 (iSCSI) protocol data types
  *
  * Copyright (C) 2005 Dmitry Yusupov
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2005 Alex Aizman
  * maintained by open-iscsi@googlegroups.com
  *

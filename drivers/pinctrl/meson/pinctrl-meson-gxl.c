@@ -2,6 +2,7 @@
  * Pin controller and GPIO driver for Amlogic Meson GXL.
  *
  * Copyright (C) 2016 Endless Mobile, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Carlo Caione <carlo@endlessm.com>
  *
  * This program is free software; you can redistribute it and/or

@@ -2,6 +2,7 @@
  * AD7785/AD7792/AD7793/AD7794/AD7795 SPI ADC driver
  *
  * Copyright 2011-2012 Analog Devices Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Licensed under the GPL-2.
  */

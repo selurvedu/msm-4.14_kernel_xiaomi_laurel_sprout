@@ -16,6 +16,7 @@
  * http://www.gnu.org/licenses/gpl-2.0.html.
  *
  * Copyright (C) IBM Corporation, 2014
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Authors: Paul E. McKenney <paulmck@us.ibm.com>
  *          Davidlohr Bueso <dave@stgolabs.net>

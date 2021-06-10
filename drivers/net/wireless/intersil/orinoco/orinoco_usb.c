@@ -2,6 +2,7 @@
  * USB Orinoco driver
  *
  * Copyright (c) 2003 Manuel Estrada Sainz
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * The contents of this file are subject to the Mozilla Public License
  * Version 1.1 (the "License"); you may not use this file except in

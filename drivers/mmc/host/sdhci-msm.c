@@ -3,6 +3,7 @@
  * driver source file
  *
  * Copyright (c) 2012-2020, The Linux Foundation. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License version 2 and
@@ -43,6 +44,9 @@
 
 #include "sdhci-msm.h"
 #include "cmdq_hci.h"
+//bug430364, guodandan@wt, 2019.03.1, start
+#include <linux/proc_fs.h>
+//bug430364, guodandan@wt, 2019.03.1, end
 #include "cmdq_hci-crypto-qti.h"
 
 #define QOS_REMOVE_DELAY_MS	10
@@ -347,6 +351,10 @@ static const u32 tuning_block_128[] = {
 
 /* global to hold each slot instance for debug */
 static struct sdhci_msm_host *sdhci_slot[2];
+
+//bug430364, guodandan@wt, 2019.03.1, start
+static int sdhci_irq_gpio = 0;
+//bug430364, guodandan@wt, 2019.03.1, end
 
 static int disable_slots;
 /* root can write, others read */
@@ -2000,6 +2008,11 @@ struct sdhci_msm_pltfm_data *sdhci_msm_populate_pdata(struct device *dev,
                                 &msm_host->mmc->ios.power_delay_ms);
 
 	pdata->status_gpio = of_get_named_gpio_flags(np, "cd-gpios", 0, &flags);
+
+	//bug430364, guodandan@wt, 2019.03.1, start
+	sdhci_irq_gpio = pdata->status_gpio;
+	//bug430364, guodandan@wt, 2019.03.1, end
+
 	if (gpio_is_valid(pdata->status_gpio) && !(flags & OF_GPIO_ACTIVE_LOW))
 		pdata->caps2 |= MMC_CAP2_CD_ACTIVE_HIGH;
 
@@ -4682,6 +4695,49 @@ static bool sdhci_msm_is_bootdevice(struct device *dev)
 	 */
 	return true;
 }
+//bug430364, guodandan@wt, 2019.03.1, start
+static int sim_card_status_show(struct seq_file *m, void *v)
+{
+	int gpio_value;
+
+	gpio_value = gpio_get_value_cansleep(sdhci_irq_gpio);
+
+	pr_debug("%s: gpio_value is %d\n", __func__, gpio_value);
+
+	seq_printf(m, "%d\n", gpio_value);
+
+	return 0;
+}
+
+static int sim_card_status_proc_open(struct inode *inode, struct file *file)
+{
+	return single_open(file, sim_card_status_show, NULL);
+}
+
+static const struct file_operations sim_card_status_fops = {
+	.open		= sim_card_status_proc_open,
+	.read		= seq_read,
+	.llseek		= seq_lseek,
+	.release	= single_release,
+};
+
+static int sim_card_tray_create_proc(void)
+{
+	struct proc_dir_entry *status_entry;
+
+	status_entry = proc_create("sd_tray_gpio_value", 0, NULL, &sim_card_status_fops);
+	if (!status_entry){
+		return -ENOMEM;
+	}
+	return 0;
+}
+
+static void sim_card_tray_remove_proc(void)
+{
+	remove_proc_entry("sd_tray_gpio_value", NULL);
+}
+//bug430364, guodandan@wt, 2019.03.1,  end
+
 
 static int sdhci_msm_probe(struct platform_device *pdev)
 {
@@ -4979,6 +5035,11 @@ static int sdhci_msm_probe(struct platform_device *pdev)
 	 * in GIC.
 	 */
 	mb();
+	//bug430364, guodandan@wt, 2019.03.1,  start
+	if(!strcmp(mmc_hostname(host->mmc), "mmc0")){
+		sim_card_tray_create_proc();
+	}
+	//bug430364, guodandan@wt, 2019.03.1,  end
 
 	/*
 	 * Following are the deviations from SDHC spec v3.0 -
@@ -5287,6 +5348,11 @@ static int sdhci_msm_remove(struct platform_device *pdev)
 	}
 
 	sdhci_pltfm_free(pdev);
+	//bug430364, guodandan@wt, 2019.03.1, start
+	if(!strcmp(mmc_hostname(host->mmc), "mmc0")){
+		sim_card_tray_remove_proc();
+	}
+	//bug430364, guodandan@wt, 2019.03.1, end
 
 	return 0;
 }

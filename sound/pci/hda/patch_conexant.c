@@ -2,6 +2,7 @@
  * HD audio interface patch for Conexant HDA audio codec
  *
  * Copyright (c) 2006 Pototskiy Akex <alex.pototskiy@gmail.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  * 		      Takashi Iwai <tiwai@suse.de>
  * 		      Tobin Davis  <tdavis@dsl-only.net>
  *

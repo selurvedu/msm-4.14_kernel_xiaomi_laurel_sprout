@@ -4,6 +4,7 @@
  * Written by Theodore Ts'o, 1995, 1996, 1997, 1998, 1999, 2000.
  * 
  * Copyright (C) 1995, 1996, 1997, 1998, 1999, 2000, 2003 by Comtrol, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * 
  * This program is free software; you can redistribute it and/or
  * modify it under the terms of the GNU General Public License as

@@ -2,6 +2,7 @@
  * Universal Interface for Intel High Definition Audio Codec
  *
  * Copyright (c) 2004 Takashi Iwai <tiwai@suse.de>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  *
  *  This driver is free software; you can redistribute it and/or modify

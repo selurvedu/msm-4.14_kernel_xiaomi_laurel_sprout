@@ -2,6 +2,7 @@
  * fs/direct-io.c
  *
  * Copyright (C) 2002, Linus Torvalds.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * O_DIRECT
  *

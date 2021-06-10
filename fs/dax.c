@@ -1,6 +1,7 @@
 /*
  * fs/dax.c - Direct Access filesystem code
  * Copyright (c) 2013-2014 Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Matthew Wilcox <matthew.r.wilcox@intel.com>
  * Author: Ross Zwisler <ross.zwisler@linux.intel.com>
  *

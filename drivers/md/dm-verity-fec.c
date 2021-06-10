@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2015 Google, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Sami Tolvanen <samitolvanen@google.com>
  *

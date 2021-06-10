@@ -2,6 +2,7 @@
  * xfrm_device.c - IPsec device offloading code.
  *
  * Copyright (c) 2015 secunet Security Networks AG
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author:
  * Steffen Klassert <steffen.klassert@secunet.com>

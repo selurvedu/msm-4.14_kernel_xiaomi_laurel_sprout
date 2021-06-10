@@ -3,6 +3,7 @@
  * Encryption policy functions for per-file encryption support.
  *
  * Copyright (C) 2015, Google, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2015, Motorola Mobility.
  *
  * Originally written by Michael Halcrow, 2015.

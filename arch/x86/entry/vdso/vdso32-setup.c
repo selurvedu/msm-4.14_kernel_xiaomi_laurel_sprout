@@ -3,6 +3,7 @@
  * (C) Copyright 2002 Linus Torvalds
  * Portions based on the vdso-randomization code from exec-shield:
  * Copyright(C) 2005-2006, Red Hat, Inc., Ingo Molnar
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This file contains the needed initializations to support sysenter.
  */

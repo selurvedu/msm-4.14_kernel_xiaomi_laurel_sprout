@@ -2,6 +2,7 @@
  * libata-pmp.c - libata port multiplier support
  *
  * Copyright (c) 2007  SUSE Linux Products GmbH
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (c) 2007  Tejun Heo <teheo@suse.de>
  *
  * This file is released under the GPLv2.

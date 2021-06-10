@@ -2,6 +2,7 @@
  * Power button driver for Intel MID platforms.
  *
  * Copyright (C) 2010,2017 Intel Corp
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Hong Liu <hong.liu@intel.com>
  * Author: Andy Shevchenko <andriy.shevchenko@linux.intel.com>

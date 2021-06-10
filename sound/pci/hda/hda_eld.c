@@ -2,6 +2,7 @@
  * Generic routines and proc interface for ELD(EDID Like Data) information
  *
  * Copyright(c) 2008 Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (c) 2013 Anssi Hannula <anssi.hannula@iki.fi>
  *
  * Authors:

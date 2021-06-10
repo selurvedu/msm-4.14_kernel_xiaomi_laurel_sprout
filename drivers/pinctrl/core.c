@@ -2,6 +2,7 @@
  * Core driver for the pin control subsystem
  *
  * Copyright (C) 2011-2012 ST-Ericsson SA
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Written on behalf of Linaro for ST-Ericsson
  * Based on bits of regulator core, gpio core and clk core
  *

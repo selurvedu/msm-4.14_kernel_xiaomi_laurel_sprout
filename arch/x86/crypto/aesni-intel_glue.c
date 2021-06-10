@@ -3,6 +3,7 @@
  * code, the real AES implementation is in intel-aes_asm.S.
  *
  * Copyright (C) 2008, Intel Corp.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *    Author: Huang Ying <ying.huang@intel.com>
  *
  * Added RFC4106 AES-GCM support for 128-bit keys under the AEAD

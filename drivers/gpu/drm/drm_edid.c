@@ -1,5 +1,6 @@
 /*
  * Copyright (c) 2006 Luc Verhaegen (quirks list)
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (c) 2007-2008 Intel Corporation
  *   Jesse Barnes <jesse.barnes@intel.com>
  * Copyright 2010 Red Hat, Inc.

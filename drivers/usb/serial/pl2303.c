@@ -2,6 +2,7 @@
  * Prolific PL2303 USB to serial adaptor driver
  *
  * Copyright (C) 2001-2007 Greg Kroah-Hartman (greg@kroah.com)
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2003 IBM Corp.
  *
  * Original driver for 2.2.x by anonymous

@@ -10,6 +10,7 @@
  * vxge-main.h: Driver for Exar Corp's X3100 Series 10GbE PCIe I/O
  *              Virtualized Server Adapter.
  * Copyright(c) 2002-2010 Exar Corp.
+ * Copyright (C) 2021 XiaoMi, Inc.
  ******************************************************************************/
 #ifndef VXGE_MAIN_H
 #define VXGE_MAIN_H

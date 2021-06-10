@@ -2,6 +2,7 @@
  * Atmel ADC driver for SAMA5D2 devices and compatible.
  *
  * Copyright (C) 2015 Atmel,
+ * Copyright (C) 2021 XiaoMi, Inc.
  *               2015 Ludovic Desroches <ludovic.desroches@atmel.com>
  *
  * This software is licensed under the terms of the GNU General Public

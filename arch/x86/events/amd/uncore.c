@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2013 Advanced Micro Devices, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Jacob Shin <jacob.shin@amd.com>
  *

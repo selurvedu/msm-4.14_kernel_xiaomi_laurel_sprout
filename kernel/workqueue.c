@@ -2,6 +2,7 @@
  * kernel/workqueue.c - generic async execution with shared worker pool
  *
  * Copyright (C) 2002		Ingo Molnar
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  *   Derived from the taskqueue/keventd code by:
  *     David Woodhouse <dwmw2@infradead.org>

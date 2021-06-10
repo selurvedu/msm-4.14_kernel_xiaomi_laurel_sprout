@@ -6,6 +6,7 @@
  * support in the VM by introducing the new vsock transport.
  *
  * Copyright (c) 2017, Microsoft Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This program is free software; you can redistribute it and/or modify it
  * under the terms and conditions of the GNU General Public License,

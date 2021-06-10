@@ -5,6 +5,7 @@
  * existing ones), and then switching over to them when ready.
  *
  * Copyright (C) 2015-2016  Yinghai Lu
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C)      2016  Kees Cook
  */
 

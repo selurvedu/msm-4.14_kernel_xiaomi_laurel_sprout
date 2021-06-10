@@ -2,6 +2,7 @@
  * IEEE 802.11 defines
  *
  * Copyright (c) 2001-2002, SSH Communications Security Corp and Jouni Malinen
+ * Copyright (C) 2021 XiaoMi, Inc.
  * <jkmaline@cc.hut.fi>
  * Copyright (c) 2002-2003, Jouni Malinen <jkmaline@cc.hut.fi>
  * Copyright (c) 2005, Devicescape Software, Inc.

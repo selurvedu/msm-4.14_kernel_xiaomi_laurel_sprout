@@ -5,6 +5,7 @@
  * Support for resizing an ext4 filesystem while it is mounted.
  *
  * Copyright (C) 2001, 2002 Andreas Dilger <adilger@clusterfs.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This could probably be made into a module, because it is not often in use.
  */

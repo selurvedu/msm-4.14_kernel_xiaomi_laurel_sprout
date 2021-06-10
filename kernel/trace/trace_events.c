@@ -2,6 +2,7 @@
  * event tracer
  *
  * Copyright (C) 2008 Red Hat Inc, Steven Rostedt <srostedt@redhat.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  *  - Added format output of fields of the trace point.
  *    This was based off of work by Tom Zanussi <tzanussi@gmail.com>.

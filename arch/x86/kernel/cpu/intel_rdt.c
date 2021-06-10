@@ -3,6 +3,7 @@
  * - Cache Allocation code.
  *
  * Copyright (C) 2016 Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Authors:
  *    Fenghua Yu <fenghua.yu@intel.com>

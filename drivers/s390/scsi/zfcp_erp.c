@@ -5,6 +5,7 @@
  * Error Recovery Procedures (ERP).
  *
  * Copyright IBM Corp. 2002, 2016
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #define KMSG_COMPONENT "zfcp"

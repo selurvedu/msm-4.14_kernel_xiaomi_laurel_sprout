@@ -2,6 +2,7 @@
  * RNG driver for Freescale RNGC
  *
  * Copyright (C) 2008-2012 Freescale Semiconductor, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2017 Martin Kaiser <martin@kaiser.cx>
  *
  * The code contained herein is licensed under the GNU General Public

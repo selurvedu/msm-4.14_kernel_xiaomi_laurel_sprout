@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2009. SUSE Linux Products GmbH. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Authors:
  *    Alexander Graf <agraf@suse.de>

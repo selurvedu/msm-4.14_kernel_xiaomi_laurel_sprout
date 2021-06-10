@@ -2,6 +2,7 @@
 /*
  * Intel specific MCE features.
  * Copyright 2004 Zwane Mwaikambo <zwane@linuxpower.ca>
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2008, 2009 Intel Corporation
  * Author: Andi Kleen
  */

@@ -2,6 +2,7 @@
  * KVM PMU support for Intel CPUs
  *
  * Copyright 2011 Red Hat, Inc. and/or its affiliates.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Authors:
  *   Avi Kivity   <avi@redhat.com>

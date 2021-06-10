@@ -2,6 +2,7 @@
  * Edgeport USB Serial Converter driver
  *
  * Copyright (C) 2000 Inside Out Networks, All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2001-2002 Greg Kroah-Hartman <greg@kroah.com>
  *
  *	This program is free software; you can redistribute it and/or modify

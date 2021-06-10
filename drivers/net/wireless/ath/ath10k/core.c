@@ -1,5 +1,6 @@
 /*
  * Copyright (c) 2005-2011 Atheros Communications Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (c) 2011-2017 Qualcomm Atheros, Inc.
  * Copyright (c) 2018-2019, The Linux Foundation. All rights reserved.
  *

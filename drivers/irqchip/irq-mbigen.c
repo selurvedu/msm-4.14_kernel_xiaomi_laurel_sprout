@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2015 Hisilicon Limited, All Rights Reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Jun Ma <majun258@huawei.com>
  * Author: Yun Wu <wuyun.wu@huawei.com>
  *

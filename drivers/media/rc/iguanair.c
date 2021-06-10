@@ -2,6 +2,7 @@
  * IguanaWorks USB IR Transceiver support
  *
  * Copyright (C) 2012 Sean Young <sean@mess.org>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

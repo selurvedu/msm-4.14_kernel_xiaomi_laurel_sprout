@@ -1,5 +1,6 @@
 /*
  * Copyright 2004-2014 Freescale Semiconductor, Inc. All Rights Reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 /*

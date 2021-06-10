@@ -2,6 +2,7 @@
  * HCI based Driver for NXP PN544 NFC Chip
  *
  * Copyright (C) 2012  Intel Corporation. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This program is free software; you can redistribute it and/or modify it
  * under the terms and conditions of the GNU General Public License,

@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2016-2017 Linaro Ltd., Rob Herring <robh@kernel.org>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Based on drivers/spmi/spmi.c:
  * Copyright (c) 2012-2015, The Linux Foundation. All rights reserved.

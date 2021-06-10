@@ -2,6 +2,7 @@
  * r8a7778 processor support - PFC hardware block
  *
  * Copyright (C) 2013  Renesas Solutions Corp.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2013  Kuninori Morimoto <kuninori.morimoto.gx@renesas.com>
  * Copyright (C) 2013  Cogent Embedded, Inc.
  * Copyright (C) 2015  Ulrich Hecht

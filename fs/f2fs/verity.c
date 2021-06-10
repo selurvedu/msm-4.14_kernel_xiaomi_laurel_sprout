@@ -3,6 +3,7 @@
  * fs/f2fs/verity.c: fs-verity support for f2fs
  *
  * Copyright 2019 Google LLC
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 /*

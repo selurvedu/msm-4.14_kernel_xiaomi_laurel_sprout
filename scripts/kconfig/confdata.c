@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2002 Roman Zippel <zippel@linux-m68k.org>
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Released under the terms of the GNU GPL v2.0.
  */
 

@@ -2,6 +2,7 @@
  * u_serial.c - utilities for USB gadget "serial port"/TTY support
  *
  * Copyright (C) 2003 Al Borchers (alborchers@steinerpoint.com)
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2008 David Brownell
  * Copyright (C) 2008 by Nokia Corporation
  *

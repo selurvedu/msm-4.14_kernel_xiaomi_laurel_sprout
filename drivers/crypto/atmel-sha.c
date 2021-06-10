@@ -4,6 +4,7 @@
  * Support for ATMEL SHA1/SHA256 HW acceleration.
  *
  * Copyright (c) 2012 Eukréa Electromatique - ATMEL
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Nicolas Royer <nicolas@eukrea.com>
  *
  * This program is free software; you can redistribute it and/or modify

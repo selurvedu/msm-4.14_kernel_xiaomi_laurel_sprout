@@ -2,6 +2,7 @@
  * Virtio GPU Device
  *
  * Copyright Red Hat, Inc. 2013-2014
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Authors:
  *     Dave Airlie <airlied@redhat.com>

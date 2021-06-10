@@ -3,6 +3,7 @@
  * linux/kernel/irq/proc.c
  *
  * Copyright (C) 1992, 1998-2004 Linus Torvalds, Ingo Molnar
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This file contains the /proc/irq/ handling code.
  */

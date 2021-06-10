@@ -2,6 +2,7 @@
  * Xilinx XADC driver
  *
  * Copyright 2013-2014 Analog Devices Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *  Author: Lars-Peter Clauen <lars@metafoo.de>
  *
  * Licensed under the GPL-2.

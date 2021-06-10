@@ -2,6 +2,7 @@
  * Loopback test application
  *
  * Copyright 2015 Google Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright 2015 Linaro Ltd.
  *
  * Provided under the three clause BSD license found in the LICENSE file.

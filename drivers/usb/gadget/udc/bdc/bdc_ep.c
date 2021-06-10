@@ -2,6 +2,7 @@
  * bdc_ep.c - BRCM BDC USB3.0 device controller endpoint related functions
  *
  * Copyright (C) 2014 Broadcom Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Ashwini Pahuja
  *

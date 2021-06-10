@@ -7,6 +7,7 @@
  * This file is based on sha1_generic.c
  *
  * Copyright (c) Alan Smithee.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (c) Andrew McDonald <andrew@mcdonald.org.uk>
  * Copyright (c) Jean-Francois Dive <jef@linuxbe.org>
  * Copyright (c) Mathias Krause <minipli@googlemail.com>

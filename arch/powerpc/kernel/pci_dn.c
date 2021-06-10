@@ -2,6 +2,7 @@
  * pci_dn.c
  *
  * Copyright (C) 2001 Todd Inglett, IBM Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * PCI manipulation via device_nodes.
  *

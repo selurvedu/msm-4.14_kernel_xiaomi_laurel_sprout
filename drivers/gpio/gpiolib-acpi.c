@@ -2,6 +2,7 @@
  * ACPI helpers for GPIO API
  *
  * Copyright (C) 2012, Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Authors: Mathias Nyman <mathias.nyman@linux.intel.com>
  *          Mika Westerberg <mika.westerberg@linux.intel.com>
  *

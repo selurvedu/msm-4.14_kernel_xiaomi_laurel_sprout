@@ -2,6 +2,7 @@
  * R-Car PWM Timer driver
  *
  * Copyright (C) 2015 Renesas Electronics Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This is free software; you can redistribute it and/or modify
  * it under the terms of version 2 of the GNU General Public License as

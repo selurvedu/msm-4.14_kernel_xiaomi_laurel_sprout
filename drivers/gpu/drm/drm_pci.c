@@ -1,5 +1,6 @@
 /*
  * Copyright 2003 José Fonseca.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright 2003 Leif Delgass.
  * All Rights Reserved.
  *

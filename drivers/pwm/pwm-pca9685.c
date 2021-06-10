@@ -2,6 +2,7 @@
  * Driver for PCA9685 16-channel 12-bit PWM LED controller
  *
  * Copyright (C) 2013 Steffen Trumtrar <s.trumtrar@pengutronix.de>
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2015 Clemens Gruber <clemens.gruber@pqgruber.com>
  *
  * based on the pwm-twl-led.c driver

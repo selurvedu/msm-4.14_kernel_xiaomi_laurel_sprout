@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2010 IBM Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2010 Politecnico di Torino, Italy
  *                    TORSEC group -- http://security.polito.it
  *

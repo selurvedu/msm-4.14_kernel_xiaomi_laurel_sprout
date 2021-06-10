@@ -7,6 +7,7 @@
  * This is used to derive keys from the fscrypt master keys.
  *
  * Copyright 2019 Google LLC
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <crypto/hash.h>

@@ -2,6 +2,7 @@
  * Driver for Marvell NETA network card for Armada XP and Armada 370 SoCs.
  *
  * Copyright (C) 2012 Marvell
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Rami Rosen <rosenr@marvell.com>
  * Thomas Petazzoni <thomas.petazzoni@free-electrons.com>

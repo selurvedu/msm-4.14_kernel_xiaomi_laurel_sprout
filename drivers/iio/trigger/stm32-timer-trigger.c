@@ -1,5 +1,6 @@
 /*
  * Copyright (C) STMicroelectronics 2016
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Benjamin Gaignard <benjamin.gaignard@st.com>
  *

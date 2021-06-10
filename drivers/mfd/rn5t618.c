@@ -2,6 +2,7 @@
  * MFD core driver for Ricoh RN5T618 PMIC
  *
  * Copyright (C) 2014 Beniamino Galvani <b.galvani@gmail.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2016 Toradex AG
  *
  * This program is free software; you can redistribute it and/or

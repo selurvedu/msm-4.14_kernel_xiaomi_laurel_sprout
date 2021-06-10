@@ -2,6 +2,7 @@
  * ACPI Hardware Watchdog (WDAT) driver.
  *
  * Copyright (C) 2016, Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Mika Westerberg <mika.westerberg@linux.intel.com>
  *
  * This program is free software; you can redistribute it and/or modify

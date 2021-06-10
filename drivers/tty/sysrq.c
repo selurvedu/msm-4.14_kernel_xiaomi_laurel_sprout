@@ -53,6 +53,7 @@
 
 #include <asm/ptrace.h>
 #include <asm/irq_regs.h>
+#include <wt_sys/wt_boot_reason.h>
 
 /* Whether we react on sysrq keys or just ignore them */
 static int __read_mostly sysrq_enabled = CONFIG_MAGIC_SYSRQ_DEFAULT_ENABLE;
@@ -137,6 +138,14 @@ static void sysrq_handle_crash(int key)
 {
 	/* release the RCU read lock before crashing */
 	rcu_read_unlock();
+	panic_on_oops = 1;	/* force panic */
+/* bug 407890, wanghui2.wt, 2018/12/12, add save_panic_key_log, begin */
+#ifdef CONFIG_WT_BOOT_REASON
+	save_panic_key_log("Sysrq: Trigger a crash\n");
+#endif
+/* bug 407890, wanghui2.wt, 2018/12/12, add save_panic_key_log, end */
+	wmb();
+	//*killer = 1;
 
 	panic("sysrq triggered crash\n");
 }

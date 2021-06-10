@@ -2,6 +2,7 @@
  * multi.c -- Multifunction Composite driver
  *
  * Copyright (C) 2008 David Brownell
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2008 Nokia Corporation
  * Copyright (C) 2009 Samsung Electronics
  * Author: Michal Nazarewicz (mina86@mina86.com)

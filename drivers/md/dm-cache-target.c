@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2012 Red Hat. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This file is released under the GPL.
  */

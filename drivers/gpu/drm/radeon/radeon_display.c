@@ -1,5 +1,6 @@
 /*
  * Copyright 2007-8 Advanced Micro Devices, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright 2008 Red Hat Inc.
  *
  * Permission is hereby granted, free of charge, to any person obtaining a

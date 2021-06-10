@@ -1,5 +1,6 @@
 /*
  * Copyright (c) 1996, 2003 VIA Networking Technologies, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * All rights reserved.
  *
  * This program is free software; you can redistribute it and/or modify

@@ -4,6 +4,7 @@
  *           on the 646U2 and not on the 646U.
  *
  * Copyright (C) 1998		Eddie C. Dost  (ecd@skynet.be)
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 1998		David S. Miller (davem@redhat.com)
  *
  * Copyright (C) 1999-2002	Andre Hedrick <andre@linux-ide.org>

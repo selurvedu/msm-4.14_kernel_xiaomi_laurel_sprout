@@ -5,6 +5,7 @@
  * IBM NetCamera and Veo Stingray.
  *
  * Copyright (C) 2010 Hans de Goede <hdegoede@redhat.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This driver is based on earlier work of:
  *

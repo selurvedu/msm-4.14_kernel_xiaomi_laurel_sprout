@@ -1,6 +1,7 @@
 /* ePAPR hypervisor byte channel device driver
  *
  * Copyright 2009-2011 Freescale Semiconductor, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Timur Tabi <timur@freescale.com>
  *

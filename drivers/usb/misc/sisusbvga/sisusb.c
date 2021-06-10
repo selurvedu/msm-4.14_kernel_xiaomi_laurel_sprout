@@ -4,6 +4,7 @@
  * Main part
  *
  * Copyright (C) 2005 by Thomas Winischhofer, Vienna, Austria
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * If distributed as part of the Linux kernel, this code is licensed under the
  * terms of the GPL v2.

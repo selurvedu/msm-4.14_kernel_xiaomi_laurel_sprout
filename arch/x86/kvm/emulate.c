@@ -4,6 +4,7 @@
  * Generic x86 (32-bit and 64-bit) instruction decoder and emulator.
  *
  * Copyright (c) 2005 Keir Fraser
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Linux coding style, mod r/m decoder, segment base fixes, real-mode
  * privileged instructions:

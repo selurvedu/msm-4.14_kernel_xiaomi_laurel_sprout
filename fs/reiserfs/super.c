@@ -1,5 +1,6 @@
 /*
  * Copyright 2000 by Hans Reiser, licensing governed by reiserfs/README
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Trivial changes by Alan Cox to add the LFS fixes
  *

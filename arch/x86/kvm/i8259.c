@@ -2,6 +2,7 @@
  * 8259 interrupt controller emulation
  *
  * Copyright (c) 2003-2004 Fabrice Bellard
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (c) 2007 Intel Corporation
  * Copyright 2009 Red Hat, Inc. and/or its affiliates.
  *

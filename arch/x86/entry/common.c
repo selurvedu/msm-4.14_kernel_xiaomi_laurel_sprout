@@ -1,6 +1,7 @@
 /*
  * common.c - C code for kernel entry and exit
  * Copyright (c) 2015 Andrew Lutomirski
+ * Copyright (C) 2021 XiaoMi, Inc.
  * GPL v2
  *
  * Based on asm and ptrace code by many authors.  The code here originated

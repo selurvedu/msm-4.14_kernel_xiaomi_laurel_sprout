@@ -3,6 +3,7 @@
  * This is a driver for SMSC's LAN911{5,6,7,8} single-chip Ethernet devices.
  *
  * Copyright (C) 2005 Sensoria Corp
+ * Copyright (C) 2021 XiaoMi, Inc.
  *	   Derived from the unified SMC91x driver by Nicolas Pitre
  *	   and the smsc911x.c reference driver by SMSC
  *

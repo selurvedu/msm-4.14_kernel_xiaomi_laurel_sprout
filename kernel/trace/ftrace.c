@@ -2,6 +2,7 @@
  * Infrastructure for profiling code inserted by 'gcc -pg'.
  *
  * Copyright (C) 2007-2008 Steven Rostedt <srostedt@redhat.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2004-2008 Ingo Molnar <mingo@redhat.com>
  *
  * Originally ported from the -rt patch by:

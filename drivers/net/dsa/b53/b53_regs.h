@@ -2,6 +2,7 @@
  * B53 register definitions
  *
  * Copyright (C) 2004 Broadcom Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2011-2013 Jonas Gorski <jogo@openwrt.org>
  *
  * Permission to use, copy, modify, and/or distribute this software for any

@@ -2,6 +2,7 @@
  * Scatterlist Cryptographic API.
  *
  * Copyright (c) 2002 James Morris <jmorris@intercode.com.au>
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (c) 2002 David S. Miller (davem@redhat.com)
  * Copyright (c) 2005 Herbert Xu <herbert@gondor.apana.org.au>
  *

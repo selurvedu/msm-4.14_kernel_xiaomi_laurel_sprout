@@ -3,6 +3,7 @@
  * Implementation of s390 diagnose codes
  *
  * Copyright IBM Corp. 2007
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author(s): Michael Holzheu <holzheu@de.ibm.com>
  */
 

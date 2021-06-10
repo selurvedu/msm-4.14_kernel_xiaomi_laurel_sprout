@@ -3,6 +3,7 @@
  * Infrastructure for statistic tracing (histogram output).
  *
  * Copyright (C) 2008-2009 Frederic Weisbecker <fweisbec@gmail.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Based on the code from trace_branch.c which is
  * Copyright (C) 2008 Steven Rostedt <srostedt@redhat.com>

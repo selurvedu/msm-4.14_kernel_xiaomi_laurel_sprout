@@ -7,6 +7,7 @@
  * This file is based on sha256_generic.c
  *
  * Copyright (C) 2013 Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author:
  *     Tim Chen <tim.c.chen@linux.intel.com>

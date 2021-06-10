@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2014 Traphandler
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2014 Free Electrons
  *
  * Author: Jean-Jacques Hiblot <jjhiblot@traphandler.com>

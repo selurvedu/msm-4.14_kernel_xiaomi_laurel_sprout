@@ -2,6 +2,7 @@
  * Real Time Clock driver for Marvell 88PM860x PMIC
  *
  * Copyright (c) 2010 Marvell International Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author:	Haojian Zhuang <haojian.zhuang@marvell.com>
  *
  * This program is free software; you can redistribute it and/or modify

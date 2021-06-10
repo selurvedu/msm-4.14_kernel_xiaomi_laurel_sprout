@@ -1,6 +1,7 @@
 /* bit search implementation
  *
  * Copyright (C) 2004 Red Hat, Inc. All Rights Reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Written by David Howells (dhowells@redhat.com)
  *
  * Copyright (C) 2008 IBM Corporation

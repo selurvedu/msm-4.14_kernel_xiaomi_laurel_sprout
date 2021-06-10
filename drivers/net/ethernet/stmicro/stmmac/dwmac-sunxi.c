@@ -2,6 +2,7 @@
  * dwmac-sunxi.c - Allwinner sunxi DWMAC specific glue layer
  *
  * Copyright (C) 2013 Chen-Yu Tsai
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Chen-Yu Tsai  <wens@csie.org>
  *

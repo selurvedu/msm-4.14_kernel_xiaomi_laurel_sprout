@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2011 Fujitsu.  All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Written by Miao Xie <miaox@cn.fujitsu.com>
  *
  * This program is free software; you can redistribute it and/or

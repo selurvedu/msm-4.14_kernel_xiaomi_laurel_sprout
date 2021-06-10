@@ -2,6 +2,7 @@
  * Shared descriptors for aead, ablkcipher algorithms
  *
  * Copyright 2016 NXP
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include "compat.h"

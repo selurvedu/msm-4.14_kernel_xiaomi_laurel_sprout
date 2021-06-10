@@ -1,5 +1,6 @@
 /*
  * Copyright (C) STMicroelectronics SA 2014
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Authors: Fabien Dessenne <fabien.dessenne@st.com> for STMicroelectronics.
  * License terms:  GNU General Public License (GPL), version 2
  */

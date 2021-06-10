@@ -8,6 +8,7 @@
  *         and David Rowe <david_at_rowetel_dot_com>
  *
  * Copyright (C) 2001, 2003 Steve Underwood, 2007 David Rowe
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Based on a bit from here, a bit from there, eye of toad, ear of
  * bat, 15 years of failed attempts by David and a few fried brain

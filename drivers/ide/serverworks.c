@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 1998-2000 Michel Aubry
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 1998-2000 Andrzej Krzysztofowicz
  * Copyright (C) 1998-2000 Andre Hedrick <andre@linux-ide.org>
  * Copyright (C) 2007-2010 Bartlomiej Zolnierkiewicz

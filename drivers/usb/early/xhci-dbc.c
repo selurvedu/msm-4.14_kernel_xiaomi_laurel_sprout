@@ -2,6 +2,7 @@
  * xhci-dbc.c - xHCI debug capability early driver
  *
  * Copyright (C) 2016 Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Lu Baolu <baolu.lu@linux.intel.com>
  *

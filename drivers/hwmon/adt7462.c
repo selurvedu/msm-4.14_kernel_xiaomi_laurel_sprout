@@ -1,6 +1,7 @@
 /*
  * A hwmon driver for the Analog Devices ADT7462
  * Copyright (C) 2008 IBM
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Darrick J. Wong <darrick.wong@oracle.com>
  *

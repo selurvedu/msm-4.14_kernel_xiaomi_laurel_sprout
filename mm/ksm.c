@@ -5,6 +5,7 @@
  * memory areas, even if they are not shared by fork()
  *
  * Copyright (C) 2008-2009 Red Hat, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Authors:
  *	Izik Eidus
  *	Andrea Arcangeli

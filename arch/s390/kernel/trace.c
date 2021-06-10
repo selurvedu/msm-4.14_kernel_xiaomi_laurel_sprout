@@ -3,6 +3,7 @@
  * Tracepoint definitions for s390
  *
  * Copyright IBM Corp. 2015
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author(s): Martin Schwidefsky <schwidefsky@de.ibm.com>
  */
 

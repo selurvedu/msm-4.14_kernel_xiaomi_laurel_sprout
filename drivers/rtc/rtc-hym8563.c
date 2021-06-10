@@ -2,6 +2,7 @@
  * Haoyu HYM8563 RTC driver
  *
  * Copyright (C) 2013 MundoReader S.L.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Heiko Stuebner <heiko@sntech.de>
  *
  * based on rtc-HYM8563

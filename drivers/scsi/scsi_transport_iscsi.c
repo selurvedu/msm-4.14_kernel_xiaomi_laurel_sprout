@@ -2,6 +2,7 @@
  * iSCSI transport class definitions
  *
  * Copyright (C) IBM Corporation, 2004
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) Mike Christie, 2004 - 2005
  * Copyright (C) Dmitry Yusupov, 2004 - 2005
  * Copyright (C) Alex Aizman, 2004 - 2005

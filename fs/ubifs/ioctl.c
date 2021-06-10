@@ -2,6 +2,7 @@
  * This file is part of UBIFS.
  *
  * Copyright (C) 2006-2008 Nokia Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2006, 2007 University of Szeged, Hungary
  *
  * This program is free software; you can redistribute it and/or modify it

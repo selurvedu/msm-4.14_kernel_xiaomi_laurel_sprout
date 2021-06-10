@@ -3,6 +3,7 @@
  * UART support
  *
  * Copyright (C) 2013 Boris BREZILLON <b.brezillon@overkiz.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Licensed under GPLv2.
  */

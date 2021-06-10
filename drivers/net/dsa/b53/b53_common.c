@@ -2,6 +2,7 @@
  * B53 switch driver main logic
  *
  * Copyright (C) 2011-2013 Jonas Gorski <jogo@openwrt.org>
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2016 Florian Fainelli <f.fainelli@gmail.com>
  *
  * Permission to use, copy, modify, and/or distribute this software for any

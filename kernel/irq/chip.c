@@ -2,6 +2,7 @@
  * linux/kernel/irq/chip.c
  *
  * Copyright (C) 1992, 1998-2006 Linus Torvalds, Ingo Molnar
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2005-2006, Thomas Gleixner, Russell King
  *
  * This file contains the core interrupt handling code, for irq-chip

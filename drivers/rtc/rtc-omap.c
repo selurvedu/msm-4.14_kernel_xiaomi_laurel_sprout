@@ -2,6 +2,7 @@
  * TI OMAP Real Time Clock interface for Linux
  *
  * Copyright (C) 2003 MontaVista Software, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: George G. Davis <gdavis@mvista.com> or <source@mvista.com>
  *
  * Copyright (C) 2006 David Brownell (new RTC framework)

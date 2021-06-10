@@ -1,5 +1,6 @@
 /*
  * Copyright © 2008 Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright © 2016 Collabora Ltd
  *
  * Permission is hereby granted, free of charge, to any person obtaining a

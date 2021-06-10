@@ -2,6 +2,7 @@
  * TI CAL camera interface driver
  *
  * Copyright (c) 2015 Texas Instruments Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Benoit Parrot, <bparrot@ti.com>
  *
  * This program is free software; you can redistribute it and/or modify it

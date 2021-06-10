@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2012 Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2017 Linaro Ltd. <ard.biesheuvel@linaro.org>
  *
  * This program is free software; you can redistribute it and/or

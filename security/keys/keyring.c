@@ -1,6 +1,7 @@
 /* Keyring handling
  *
  * Copyright (C) 2004-2005, 2008, 2013 Red Hat, Inc. All Rights Reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Written by David Howells (dhowells@redhat.com)
  *
  * This program is free software; you can redistribute it and/or

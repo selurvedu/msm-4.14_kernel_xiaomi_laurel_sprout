@@ -3,6 +3,7 @@
  * Dynamic function tracing support.
  *
  * Copyright (C) 2007-2008 Steven Rostedt <srostedt@redhat.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Thanks goes to Ingo Molnar, for suggesting the idea.
  * Mathieu Desnoyers, for suggesting postponing the modifications.

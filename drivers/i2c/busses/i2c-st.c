@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2013 STMicroelectronics
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * I2C master mode controller driver, used in STMicroelectronics devices.
  *

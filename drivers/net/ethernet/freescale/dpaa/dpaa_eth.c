@@ -1,4 +1,5 @@
 /* Copyright 2008 - 2016 Freescale Semiconductor Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions are met:

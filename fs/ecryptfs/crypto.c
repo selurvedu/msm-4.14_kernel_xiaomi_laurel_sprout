@@ -2,6 +2,7 @@
  * eCryptfs: Linux filesystem encryption layer
  *
  * Copyright (C) 1997-2004 Erez Zadok
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2001-2004 Stony Brook University
  * Copyright (C) 2004-2007 International Business Machines Corp.
  *   Author(s): Michael A. Halcrow <mahalcro@us.ibm.com>

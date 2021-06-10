@@ -14,6 +14,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
  * Copyright (C) 2013 ARM Limited
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2017 Red Hat
  */
 

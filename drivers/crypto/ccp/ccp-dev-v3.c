@@ -2,6 +2,7 @@
  * AMD Cryptographic Coprocessor (CCP) driver
  *
  * Copyright (C) 2013,2017 Advanced Micro Devices, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Tom Lendacky <thomas.lendacky@amd.com>
  * Author: Gary R Hook <gary.hook@amd.com>

@@ -2,6 +2,7 @@
  * Driver for MT9V022, MT9V024, MT9V032, and MT9V034 CMOS Image Sensors
  *
  * Copyright (C) 2010, Laurent Pinchart <laurent.pinchart@ideasonboard.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Based on the MT9M001 driver,
  *

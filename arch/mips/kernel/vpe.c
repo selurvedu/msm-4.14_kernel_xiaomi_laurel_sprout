@@ -4,6 +4,7 @@
  * for more details.
  *
  * Copyright (C) 2004, 2005 MIPS Technologies, Inc.  All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2013 Imagination Technologies Ltd.
  *
  * VPE spport module for loading a MIPS SP program into VPE1. The SP

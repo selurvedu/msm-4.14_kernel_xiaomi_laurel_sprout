@@ -2,6 +2,7 @@
  * driver/dma/coh901318.c
  *
  * Copyright (C) 2007-2009 ST-Ericsson
+ * Copyright (C) 2021 XiaoMi, Inc.
  * License terms: GNU General Public License (GPL) version 2
  * DMA driver for COH 901 318
  * Author: Per Friden <per.friden@stericsson.com>

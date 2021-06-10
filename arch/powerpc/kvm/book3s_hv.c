@@ -1,5 +1,6 @@
 /*
  * Copyright 2011 Paul Mackerras, IBM Corp. <paulus@au1.ibm.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2009. SUSE Linux Products GmbH. All rights reserved.
  *
  * Authors:

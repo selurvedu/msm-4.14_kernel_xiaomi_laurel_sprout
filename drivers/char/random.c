@@ -2,6 +2,7 @@
  * random.c -- A strong random number generator
  *
  * Copyright (C) 2017 Jason A. Donenfeld <Jason@zx2c4.com>. All
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Rights Reserved.
  *
  * Copyright Matt Mackall <mpm@selenic.com>, 2003, 2004, 2005

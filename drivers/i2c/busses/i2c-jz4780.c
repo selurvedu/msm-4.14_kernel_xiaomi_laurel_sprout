@@ -2,6 +2,7 @@
  * Ingenic JZ4780 I2C bus driver
  *
  * Copyright (C) 2006 - 2009 Ingenic Semiconductor Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2015 Imagination Technologies
  *
  * This program is free software; you can redistribute it and/or modify

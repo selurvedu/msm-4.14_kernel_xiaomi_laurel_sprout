@@ -3,6 +3,7 @@
  * GPU memory trace points
  *
  * Copyright (C) 2020 Google, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #undef TRACE_SYSTEM

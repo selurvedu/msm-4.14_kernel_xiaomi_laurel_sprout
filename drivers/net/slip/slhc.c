@@ -3,6 +3,7 @@
  * over low speed serial lines).
  *
  * Copyright (c) 1989 Regents of the University of California.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms are permitted

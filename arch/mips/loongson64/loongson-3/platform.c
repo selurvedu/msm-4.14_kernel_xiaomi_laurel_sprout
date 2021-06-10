@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2009 Lemote Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Wu Zhangjin, wuzhangjin@gmail.com
  *         Xiang Yu, xiangy@lemote.com
  *         Chen Huacai, chenhc@lemote.com

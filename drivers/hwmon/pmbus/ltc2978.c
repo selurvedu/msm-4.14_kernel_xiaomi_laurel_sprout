@@ -2,6 +2,7 @@
  * Hardware monitoring driver for LTC2978 and compatible chips.
  *
  * Copyright (c) 2011 Ericsson AB.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (c) 2013, 2014, 2015 Guenter Roeck
  * Copyright (c) 2015 Linear Technology
  *

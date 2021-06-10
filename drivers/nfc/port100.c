@@ -1,6 +1,7 @@
 /*
  * Sony NFC Port-100 Series driver
  * Copyright (c) 2013, Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Partly based/Inspired by Stephen Tiedemann's nfcpy
  *

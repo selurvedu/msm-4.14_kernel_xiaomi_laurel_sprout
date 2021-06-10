@@ -1,6 +1,7 @@
 /*
  * xfrm6_output.c - Common IPsec encapsulation code for IPv6.
  * Copyright (C) 2002 USAGI/WIDE Project
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (c) 2004 Herbert Xu <herbert@gondor.apana.org.au>
  *
  * This program is free software; you can redistribute it and/or

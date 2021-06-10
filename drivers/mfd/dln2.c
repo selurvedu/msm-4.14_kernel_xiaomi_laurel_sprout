@@ -2,6 +2,7 @@
  * Driver for the Diolan DLN-2 USB adapter
  *
  * Copyright (c) 2014 Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Derived from:
  *  i2c-diolan-u2c.c

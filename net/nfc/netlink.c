@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2011 Instituto Nokia de Tecnologia
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Authors:
  *    Lauro Ramos Venancio <lauro.venancio@openbossa.org>

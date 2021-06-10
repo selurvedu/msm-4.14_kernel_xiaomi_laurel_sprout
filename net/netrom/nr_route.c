@@ -5,6 +5,7 @@
  * (at your option) any later version.
  *
  * Copyright Jonathan Naylor G4KLX (g4klx@g4klx.demon.co.uk)
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright Alan Cox GW4PTS (alan@lxorguk.ukuu.org.uk)
  * Copyright Tomi Manninen OH2BNS (oh2bns@sral.fi)
  */

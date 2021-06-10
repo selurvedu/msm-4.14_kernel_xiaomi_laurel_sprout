@@ -1,5 +1,6 @@
 /*
  * Copyright 2014 Sony Mobile Communications Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Licensed under the terms of the GNU GPL License version 2
  *

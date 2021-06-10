@@ -1,5 +1,6 @@
 /*
  * Copyright 2015-2017 Pengutronix, Lucas Stach <kernel@pengutronix.de>
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright 2011-2013 Freescale Semiconductor, Inc.
  *
  * The code contained herein is licensed under the GNU General Public

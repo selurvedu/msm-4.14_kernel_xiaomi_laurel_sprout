@@ -2,6 +2,7 @@
  * f_ecm.c -- USB CDC Ethernet (ECM) link function driver
  *
  * Copyright (C) 2003-2005,2008 David Brownell
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2008 Nokia Corporation
  *
  * This program is free software; you can redistribute it and/or modify

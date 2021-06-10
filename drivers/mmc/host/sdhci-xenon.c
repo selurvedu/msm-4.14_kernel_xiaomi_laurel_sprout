@@ -2,6 +2,7 @@
  * Driver for Marvell Xenon SDHC as a platform device
  *
  * Copyright (C) 2016 Marvell, All Rights Reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author:	Hu Ziji <huziji@marvell.com>
  * Date:	2016-8-24

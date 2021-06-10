@@ -2,6 +2,7 @@
  * Simple NUMA memory policy for the Linux kernel.
  *
  * Copyright 2003,2004 Andi Kleen, SuSE Labs.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * (C) Copyright 2005 Christoph Lameter, Silicon Graphics, Inc.
  * Subject to the GNU Public License, version 2.
  *

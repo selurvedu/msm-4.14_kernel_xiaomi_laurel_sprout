@@ -2,6 +2,7 @@
  * include/asm-arm/unified.h - Unified Assembler Syntax helper macros
  *
  * Copyright (C) 2008 ARM Limited
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License version 2 as

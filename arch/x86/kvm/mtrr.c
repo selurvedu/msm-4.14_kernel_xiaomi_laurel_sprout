@@ -2,6 +2,7 @@
  * vMTRR implementation
  *
  * Copyright (C) 2006 Qumranet, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright 2010 Red Hat, Inc. and/or its affiliates.
  * Copyright(C) 2015 Intel Corporation.
  *

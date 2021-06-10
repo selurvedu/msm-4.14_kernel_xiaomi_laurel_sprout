@@ -2,6 +2,7 @@
  * drivers/pci/iov.c
  *
  * Copyright (C) 2009 Intel Corporation, Yu Zhao <yu.zhao@intel.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * PCI Express I/O Virtualization (IOV) support.
  *   Single Root IOV 1.0

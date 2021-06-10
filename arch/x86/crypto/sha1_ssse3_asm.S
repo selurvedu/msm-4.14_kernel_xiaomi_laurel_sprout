@@ -16,6 +16,7 @@
  *   http://software.intel.com/en-us/articles/improving-the-performance-of-the-secure-hash-algorithm-1/
  *
  * Copyright (C) 2010, Intel Corp.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *   Authors: Maxim Locktyukhin <maxim.locktyukhin@intel.com>
  *            Ronen Zohar <ronen.zohar@intel.com>
  *

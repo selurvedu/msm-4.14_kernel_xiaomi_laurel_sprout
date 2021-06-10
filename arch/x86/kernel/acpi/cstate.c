@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2005 Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  * 	Venkatesh Pallipadi <venkatesh.pallipadi@intel.com>
  * 	- Added _PDC for SMP C-states on Intel CPUs
  */

@@ -2,6 +2,7 @@
  * Ram backed block device driver.
  *
  * Copyright (C) 2007 Nick Piggin
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2007 Novell Inc.
  *
  * Parts derived from drivers/block/rd.c, and drivers/block/loop.c, copyright

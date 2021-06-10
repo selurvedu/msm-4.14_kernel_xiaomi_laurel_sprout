@@ -2,6 +2,7 @@
  * Based on arch/arm/kernel/signal.c
  *
  * Copyright (C) 1995-2009 Russell King
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2012 ARM Ltd.
  * Modified by Will Deacon <will.deacon@arm.com>
  *

@@ -2,6 +2,7 @@
  * A fairly generic DMA-API to IOMMU-API glue layer.
  *
  * Copyright (C) 2014-2015 ARM Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * based in part on arch/arm/mm/dma-mapping.c:
  * Copyright (C) 2000-2004 Russell King

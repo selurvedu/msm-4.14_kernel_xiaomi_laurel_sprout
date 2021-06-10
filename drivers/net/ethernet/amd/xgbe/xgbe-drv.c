@@ -7,6 +7,7 @@
  * License 1: GPLv2
  *
  * Copyright (c) 2014-2016 Advanced Micro Devices, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This file is free software; you may copy, redistribute and/or modify
  * it under the terms of the GNU General Public License as published by

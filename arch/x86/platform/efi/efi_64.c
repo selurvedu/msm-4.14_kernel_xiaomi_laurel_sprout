@@ -4,6 +4,7 @@
  * Based on Extensible Firmware Interface Specification version 1.0
  *
  * Copyright (C) 2005-2008 Intel Co.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *	Fenghua Yu <fenghua.yu@intel.com>
  *	Bibo Mao <bibo.mao@intel.com>
  *	Chandramouli Narayanan <mouli@linux.intel.com>

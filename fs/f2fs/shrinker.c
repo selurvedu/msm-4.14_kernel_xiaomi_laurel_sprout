@@ -4,6 +4,7 @@
  *   the basic infra was copied from fs/ubifs/shrinker.c
  *
  * Copyright (c) 2015 Motorola Mobility
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (c) 2015 Jaegeuk Kim <jaegeuk@kernel.org>
  */
 #include <linux/fs.h>

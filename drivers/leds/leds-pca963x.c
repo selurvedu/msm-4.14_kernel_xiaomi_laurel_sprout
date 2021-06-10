@@ -1,5 +1,6 @@
 /*
  * Copyright 2011 bct electronic GmbH
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright 2013 Qtechnology/AS
  *
  * Author: Peter Meerwald <p.meerwald@bct-electronic.com>

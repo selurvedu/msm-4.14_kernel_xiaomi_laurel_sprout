@@ -3,6 +3,7 @@
  * fs/verity/hash_algs.c: fs-verity hash algorithms
  *
  * Copyright 2019 Google LLC
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include "fsverity_private.h"

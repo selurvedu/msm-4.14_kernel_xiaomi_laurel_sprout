@@ -7,6 +7,7 @@
  * This file is based on sha512_generic.c
  *
  * Copyright (C) 2013 Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Tim Chen <tim.c.chen@linux.intel.com>
  *
  * This program is free software; you can redistribute it and/or modify it

@@ -2,6 +2,7 @@
  * DesignWare application register space functions for Keystone PCI controller
  *
  * Copyright (C) 2013-2014 Texas Instruments., Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *		http://www.ti.com
  *
  * Author: Murali Karicheri <m-karicheri2@ti.com>

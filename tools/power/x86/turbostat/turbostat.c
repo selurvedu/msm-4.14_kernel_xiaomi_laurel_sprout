@@ -3,6 +3,7 @@
  * on modern Intel turbo-capable processors.
  *
  * Copyright (c) 2013 Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Len Brown <len.brown@intel.com>
  *
  * This program is free software; you can redistribute it and/or modify it

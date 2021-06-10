@@ -2,6 +2,7 @@
  * Cache control for MicroBlaze cache memories
  *
  * Copyright (C) 2007-2009 Michal Simek <monstr@monstr.eu>
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2007-2009 PetaLogix
  * Copyright (C) 2007-2009 John Williams <john.williams@petalogix.com>
  *

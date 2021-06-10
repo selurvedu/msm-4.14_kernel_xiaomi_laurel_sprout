@@ -2,6 +2,7 @@
 /*
  * linux/ipc/sem.c
  * Copyright (C) 1992 Krishna Balasubramanian
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 1995 Eric Schenk, Bruno Haible
  *
  * /proc/sysvipc/sem support (c) 1999 Dragos Acostachioaie <dragos@iname.com>

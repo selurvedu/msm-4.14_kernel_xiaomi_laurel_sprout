@@ -2,6 +2,7 @@
  * jc42.c - driver for Jedec JC42.4 compliant temperature sensors
  *
  * Copyright (c) 2010  Ericsson AB.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Derived from lm77.c by Andras BALI <drewie@freemail.hu>.
  *

@@ -1,5 +1,6 @@
 /*
  * Copyright (c) 2013 Lubomir Rintel
+ * Copyright (C) 2021 XiaoMi, Inc.
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without

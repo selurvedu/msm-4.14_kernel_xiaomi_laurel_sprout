@@ -2,6 +2,7 @@
  * GICv3 ITS emulation
  *
  * Copyright (C) 2015,2016 ARM Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Andre Przywara <andre.przywara@arm.com>
  *
  * This program is free software; you can redistribute it and/or modify

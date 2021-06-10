@@ -2,6 +2,7 @@
  * soc-topology.c  --  ALSA SoC Topology
  *
  * Copyright (C) 2012 Texas Instruments Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2015 Intel Corporation.
  *
  * Authors: Liam Girdwood <liam.r.girdwood@linux.intel.com>

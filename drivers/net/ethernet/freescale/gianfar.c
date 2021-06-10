@@ -10,6 +10,7 @@
  * Modifier: Sandeep Gopalpet <sandeep.kumar@freescale.com>
  *
  * Copyright 2002-2009, 2011-2013 Freescale Semiconductor, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright 2007 MontaVista Software, Inc.
  *
  * This program is free software; you can redistribute  it and/or modify it

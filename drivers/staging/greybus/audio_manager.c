@@ -2,6 +2,7 @@
  * Greybus operations
  *
  * Copyright 2015-2016 Google Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Released under the GPLv2 only.
  */

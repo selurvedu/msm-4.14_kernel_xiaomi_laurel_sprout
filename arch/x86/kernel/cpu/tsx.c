@@ -3,6 +3,7 @@
  * Intel Transactional Synchronization Extensions (TSX) control.
  *
  * Copyright (C) 2019 Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author:
  *	Pawan Gupta <pawan.kumar.gupta@linux.intel.com>

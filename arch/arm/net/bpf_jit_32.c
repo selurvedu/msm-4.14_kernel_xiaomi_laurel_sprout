@@ -2,6 +2,7 @@
  * Just-In-Time compiler for eBPF filters on 32bit ARM
  *
  * Copyright (c) 2017 Shubham Bansal <illusionist.neo@gmail.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (c) 2011 Mircea Gherzan <mgherzan@gmail.com>
  *
  * This program is free software; you can redistribute it and/or modify it

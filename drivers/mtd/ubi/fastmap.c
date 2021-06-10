@@ -1,5 +1,6 @@
 /*
  * Copyright (c) 2012 Linutronix GmbH
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (c) 2014 sigma star gmbh
  * Author: Richard Weinberger <richard@nod.at>
  *

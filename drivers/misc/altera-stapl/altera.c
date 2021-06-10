@@ -4,6 +4,7 @@
  * altera FPGA driver
  *
  * Copyright (C) Altera Corporation 1998-2001
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2010,2011 NetUP Inc.
  * Copyright (C) 2010,2011 Igor M. Liplianin <liplianin@netup.ru>
  *

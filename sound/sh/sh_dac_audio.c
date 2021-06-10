@@ -2,6 +2,7 @@
  * sh_dac_audio.c - SuperH DAC audio driver for ALSA
  *
  * Copyright (c) 2009 by Rafael Ignacio Zurita <rizurita@yahoo.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  *
  * Based on sh_dac_audio.c (Copyright (C) 2004, 2005 by Andriy Skulysh)

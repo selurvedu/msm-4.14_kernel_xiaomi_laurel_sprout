@@ -2,6 +2,7 @@
  * xHCI host controller driver
  *
  * Copyright (C) 2013 Xenia Ragiadakou
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Xenia Ragiadakou
  * Email : burzalodowa@gmail.com

@@ -5,6 +5,7 @@
  * Rest from unknown author(s).
  * 2004 Andi Kleen. Rewrote most of it.
  * Copyright 2008 Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Andi Kleen
  */
 

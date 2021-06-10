@@ -1,6 +1,7 @@
 /*
  * PCI Error Recovery Driver for RPA-compliant PPC64 platform.
  * Copyright IBM Corp. 2004 2005
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright Linas Vepstas <linas@linas.org> 2004, 2005
  *
  * All rights reserved.

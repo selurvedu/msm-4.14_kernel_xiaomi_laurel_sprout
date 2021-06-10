@@ -2,6 +2,7 @@
  * Driver for Analog Devices ADV748X video decoder and HDMI receiver
  *
  * Copyright (C) 2017 Renesas Electronics Corp.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This program is free software; you can redistribute  it and/or modify it
  * under  the terms of  the GNU General  Public License as published by the

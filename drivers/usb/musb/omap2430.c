@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2005-2007 by Texas Instruments
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Some code has been taken from tusb6010.c
  * Copyrights for that are attributable to:
  * Copyright (C) 2006 Nokia Corporation

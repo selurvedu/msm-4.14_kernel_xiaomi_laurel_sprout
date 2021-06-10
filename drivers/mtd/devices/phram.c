@@ -1,5 +1,6 @@
 /**
  * Copyright (c) ????		Jochen Schäuble <psionic@psionic.de>
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (c) 2003-2004	Joern Engel <joern@wh.fh-wedel.de>
  *
  * Usage:

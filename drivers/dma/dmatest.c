@@ -2,6 +2,7 @@
  * DMA Engine test module
  *
  * Copyright (C) 2007 Atmel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2013 Intel Corporation
  *
  * This program is free software; you can redistribute it and/or modify

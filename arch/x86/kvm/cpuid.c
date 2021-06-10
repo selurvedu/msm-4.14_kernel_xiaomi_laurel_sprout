@@ -5,6 +5,7 @@
  * derived from arch/x86/kvm/x86.c
  *
  * Copyright 2011 Red Hat, Inc. and/or its affiliates.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright IBM Corporation, 2008
  *
  * This work is licensed under the terms of the GNU GPL, version 2.  See

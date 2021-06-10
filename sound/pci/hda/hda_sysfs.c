@@ -2,6 +2,7 @@
  * sysfs interface for HD-audio codec
  *
  * Copyright (c) 2014 Takashi Iwai <tiwai@suse.de>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * split from hda_hwdep.c
  */

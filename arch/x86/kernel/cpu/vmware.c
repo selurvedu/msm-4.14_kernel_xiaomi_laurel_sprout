@@ -2,6 +2,7 @@
  * VMware Detection code.
  *
  * Copyright (C) 2008, VMware, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author : Alok N Kataria <akataria@vmware.com>
  *
  * This program is free software; you can redistribute it and/or modify

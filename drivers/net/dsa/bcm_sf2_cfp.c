@@ -2,6 +2,7 @@
  * Broadcom Starfighter 2 DSA switch CFP support
  *
  * Copyright (C) 2016, Broadcom
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

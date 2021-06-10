@@ -2,6 +2,7 @@
  * RTC class driver for "CMOS RTC":  PCs, ACPI, etc
  *
  * Copyright (C) 1996 Paul Gortmaker (drivers/char/rtc.c)
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2006 David Brownell (convert to new framework)
  *
  * This program is free software; you can redistribute it and/or

@@ -3,6 +3,7 @@
  * layout drivers.
  *
  * Copyright (c) 2014, Primary Data, Inc. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Tom Haynes <loghyr@primarydata.com>
  */

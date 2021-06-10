@@ -2,6 +2,7 @@
  * usb port device code
  *
  * Copyright (C) 2012 Intel Corp
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Lan Tianyu <tianyu.lan@intel.com>
  *

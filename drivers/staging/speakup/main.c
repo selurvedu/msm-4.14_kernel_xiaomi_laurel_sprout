@@ -5,6 +5,7 @@
  * extensively modified by David Borowski.
  *
  ** Copyright (C) 1998  Kirk Reiser.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *  Copyright (C) 2003  David Borowski.
  *
  *  This program is free software; you can redistribute it and/or modify

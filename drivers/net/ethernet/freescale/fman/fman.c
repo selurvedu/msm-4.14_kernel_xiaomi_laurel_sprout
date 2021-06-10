@@ -1,5 +1,6 @@
 /*
  * Copyright 2008-2015 Freescale Semiconductor Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright 2020 NXP
  *
  * Redistribution and use in source and binary forms, with or without

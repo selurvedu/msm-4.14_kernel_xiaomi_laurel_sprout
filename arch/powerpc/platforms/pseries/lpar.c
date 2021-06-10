@@ -1,6 +1,7 @@
 /*
  * pSeries_lpar.c
  * Copyright (C) 2001 Todd Inglett, IBM Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * pSeries LPAR support.
  * 

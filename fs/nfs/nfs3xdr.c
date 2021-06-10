@@ -5,6 +5,7 @@
  * XDR functions to encode/decode NFSv3 RPC arguments and results.
  *
  * Copyright (C) 1996, 1997 Olaf Kirch
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/param.h>

@@ -5,6 +5,7 @@
  * source module.
  *
  * Copyright (C) 2008 Jason Baron <jbaron@redhat.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  * By Greg Banks <gnb@melbourne.sgi.com>
  * Copyright (c) 2008 Silicon Graphics Inc.  All Rights Reserved.
  * Copyright (C) 2011 Bart Van Assche.  All Rights Reserved.

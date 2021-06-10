@@ -3,6 +3,7 @@
  *   AMD & Fujitsu Standard Vendor Command Set (ID 0x0002)
  *
  * Copyright (C) 2000 Crossnet Co. <info@crossnet.co.jp>
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2004 Arcom Control Systems Ltd <linux@arcom.com>
  * Copyright (C) 2005 MontaVista Software Inc. <source@mvista.com>
  *

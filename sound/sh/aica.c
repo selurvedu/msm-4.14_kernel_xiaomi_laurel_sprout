@@ -4,6 +4,7 @@
 * version 2
 *
 * Copyright Adrian McMenamin 2005, 2006, 2007
+ * Copyright (C) 2021 XiaoMi, Inc.
 * <adrian@mcmen.demon.co.uk>
 * Requires firmware (BSD licenced) available from:
 * http://linuxdc.cvs.sourceforge.net/linuxdc/linux-sh-dc/sound/oss/aica/firmware/

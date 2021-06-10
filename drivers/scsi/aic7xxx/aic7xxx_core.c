@@ -2,6 +2,7 @@
  * Core routines and tables shareable across OS platforms.
  *
  * Copyright (c) 1994-2002 Justin T. Gibbs.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (c) 2000-2002 Adaptec Inc.
  * All rights reserved.
  *

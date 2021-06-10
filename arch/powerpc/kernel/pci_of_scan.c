@@ -6,6 +6,7 @@
  * 32 bit also.
  *
  * Copyright (C) 2003 Anton Blanchard <anton@au.ibm.com>, IBM
+ * Copyright (C) 2021 XiaoMi, Inc.
  *   Rework, based on alpha PCI code.
  * Copyright (c) 2009 Secret Lab Technologies Ltd.
  *

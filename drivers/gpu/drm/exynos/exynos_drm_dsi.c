@@ -2,6 +2,7 @@
  * Samsung SoC MIPI DSI Master driver.
  *
  * Copyright (c) 2014 Samsung Electronics Co., Ltd
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Contacts: Tomasz Figa <t.figa@samsung.com>
  *

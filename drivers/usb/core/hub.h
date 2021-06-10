@@ -2,6 +2,7 @@
  * usb hub driver head file
  *
  * Copyright (C) 1999 Linus Torvalds
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 1999 Johannes Erdfelt
  * Copyright (C) 1999 Gregory P. Smith
  * Copyright (C) 2001 Brad Hards (bhards@bigpond.net.au)

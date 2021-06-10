@@ -13,6 +13,7 @@
  * refer to ACPI Specification version 4.0, section 17.3.2.6
  *
  * Copyright 2010,2011 Intel Corp.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *   Author: Huang Ying <ying.huang@intel.com>
  *
  * This program is free software; you can redistribute it and/or

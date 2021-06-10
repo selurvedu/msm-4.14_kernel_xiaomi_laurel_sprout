@@ -8,6 +8,7 @@
  * (Universal module for Linux kernel framebuffer and X.org/XFree86 4.x)
  *
  * Copyright (C) 2001-2005 by Thomas Winischhofer, Vienna, Austria
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * If distributed as part of the Linux kernel, the following license terms
  * apply:

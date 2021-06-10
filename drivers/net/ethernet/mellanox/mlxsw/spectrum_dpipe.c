@@ -1,6 +1,7 @@
 /*
  * drivers/net/ethernet/mellanox/mlxsw/spectrum_dpipe.c
  * Copyright (c) 2017 Mellanox Technologies. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (c) 2017 Arkadi Sharshevsky <arakdis@mellanox.com>
  *
  * Redistribution and use in source and binary forms, with or without

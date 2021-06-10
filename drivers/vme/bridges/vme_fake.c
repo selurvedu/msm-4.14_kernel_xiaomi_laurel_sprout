@@ -10,6 +10,7 @@
  *
  * Author: Martyn Welch <martyn@welches.me.uk>
  * Copyright (c) 2014 Martyn Welch
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Based on vme_tsi148.c:
  *

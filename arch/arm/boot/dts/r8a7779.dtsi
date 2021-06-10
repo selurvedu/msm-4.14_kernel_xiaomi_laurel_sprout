@@ -2,6 +2,7 @@
  * Device Tree Source for Renesas r8a7779
  *
  * Copyright (C) 2013 Renesas Solutions Corp.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) 2013 Simon Horman
  *
  * This file is licensed under the terms of the GNU General Public License

@@ -5,6 +5,7 @@
  * Also illustrates usage of the taskstats interface
  *
  * Copyright (C) Shailabh Nagar, IBM Corp. 2005
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (C) Balbir Singh, IBM Corp. 2006
  * Copyright (c) Jay Lan, SGI. 2006
  *

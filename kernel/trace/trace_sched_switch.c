@@ -3,6 +3,7 @@
  * trace context switch
  *
  * Copyright (C) 2007 Steven Rostedt <srostedt@redhat.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  */
 #include <linux/module.h>

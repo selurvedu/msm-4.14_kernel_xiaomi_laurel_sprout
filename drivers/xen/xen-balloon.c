@@ -2,6 +2,7 @@
  * Xen balloon driver - enables returning/claiming memory to/from Xen.
  *
  * Copyright (c) 2003, B Dragovic
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Copyright (c) 2003-2004, M Williamson, K Fraser
  * Copyright (c) 2005 Dan M. Smith, IBM Corporation
  *
